@@ -5,6 +5,7 @@ node_modules
 
 # Ignore built ts files
 dist/**/*
+addresses.list
 
 # API keys and secrets
 .env
